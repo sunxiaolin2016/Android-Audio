@@ -1,2 +1,2 @@
-# AudioTrack
-安卓音频架构Demo
+# 安卓音频架构
+1.AudioTrackDemo
