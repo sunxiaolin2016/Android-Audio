@@ -1,2 +1,2 @@
 # Android-Audio
-1.使用AudioTrack去播放pcm或者wav格式的音频文件
+1.CarAudioTrack Demo,用来演示AudioTrack的使用方法。
